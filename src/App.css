@@ -23,10 +23,10 @@
 	font-weight: bold;
 	height: 55px;
 	letter-spacing: 1px;
+	margin: 20px 0;
 	text-transform: uppercase;
 	transition: 0.2s;
 	width: 280px;
-	margin: 20px 0;
 }
 
 .button:hover {
@@ -37,8 +37,8 @@
 .paragraph {
 	background: #a6e3ff36;
 	border-bottom: 3px solid #eaeaea;
-	padding: 10px;
 	margin: 0;
+	padding: 10px;
 }
 
 .paragraph:last-child {
